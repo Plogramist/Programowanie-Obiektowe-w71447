@@ -1,7 +1,6 @@
-﻿using System;
+﻿
+Console.WriteLine("Hello, Galactic");
 
-System.Console.WriteLine("Hello, World");
+Console.WriteLine("Hello, World");
 
-System.Console.WriteLine("Hello, Poland");
-
-System.Console.WriteLine("Hello, WSIZ");
+Console.WriteLine("Hello, WSIZ");
